@@ -13,10 +13,10 @@ Aqui estão reunidos os projtos práticos realizados ao longo da disciplina, com
 |   **01**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web1) |  [🌐 Página]( https://gasparand.github.io/Projeto_Web1/) |
 |   **02**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web2) |  [🌐 Página]( https://gasparand.github.io/Projeto_Web2/) |
 |   **03**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web3) |  [🌐 Página](https://gasparand.github.io/Projeto_Web3/) |
-|   **04**  |  [📁 Repo]() |  [🌐 Página]() |
+|   **04**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web4) |  [🌐 Página](https://gasparand.github.io/Projeto_Web4/) |
 |   **05**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web5) |  [🌐 Página]( https://gasparand.github.io/Projeto_Web5/) |
 |   **06**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web6) |  [🌐 Página]( https://gasparand.github.io/Projeto_Web6/) |
-|   **07**  |  [📁 Repo]() |  [🌐 Página]() |
+|   **07**  |  [📁 Repo](https://github.com/GasparAnd/Projeto_Web7) |  [🌐 Página]( https://gasparand.github.io/Projeto_Web7/) |
 
 ---
 
